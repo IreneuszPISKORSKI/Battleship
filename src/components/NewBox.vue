@@ -1,7 +1,8 @@
 <template>
   <div>
-    {{boxX}}
-    {{boxY}}
+    X - {{boxX}}
+    <br/>
+    Y - {{boxY}}
   </div>
 </template>
 
